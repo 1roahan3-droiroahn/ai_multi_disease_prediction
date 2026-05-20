@@ -11,7 +11,7 @@
 
 ## 🚀 Live Demo
 
-🔗 **[Open Streamlit App](https://ai-multi-disease-prediction.streamlit.app/)**
+🔗 **https://1roahan3-droiroahn-ai-multi-disease-prediction-app-wpqa56.streamlit.app/**
 
 ---
 
